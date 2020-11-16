@@ -11,7 +11,7 @@
 
 #### 自动安装
 
-1. 安装 framework
+1. 安装
 
 ```
 // npm
@@ -71,3 +71,7 @@ pod 'rn-fetch-blob', :path => '../node_modules/rn-fetch-blob'
 ## API 说明
 
 [界面 UI 相关组件](/doc/API_UI.md)
+
+## react-native-elements
+
+该组件集成了 [react-native-elements](https://reactnativeelements.com/docs/)，也是对该库的补足。因此可以直接使用该库，不需要重复安装。**如果有与该库重复的组件，后续将不再维护**
