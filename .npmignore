@@ -1,0 +1,11 @@
+# other
+.idea
+
+# Examples
+react-native-kpframework-ui-example
+example
+
+# Config
+.babelrc
+.gitignore
+.npmignore
