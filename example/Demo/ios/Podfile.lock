@@ -225,7 +225,7 @@ PODS:
     - React
   - RNScreens (2.14.0):
     - React-Core
-  - RNVectorIcons (6.6.0):
+  - RNVectorIcons (7.1.0):
     - React
   - Yoga (1.14.0)
 
@@ -360,7 +360,7 @@ SPEC CHECKSUMS:
   rn-fetch-blob: f525a73a78df9ed5d35e67ea65e79d53c15255bc
   RNGestureHandler: 7a5833d0f788dbd107fbb913e09aa0c1ff333c39
   RNScreens: 2e278a90eb15092ed261d4f2271e3fc9b60d08d4
-  RNVectorIcons: 0bb4def82230be1333ddaeee9fcba45f0b288ed4
+  RNVectorIcons: bc69e6a278b14842063605de32bec61f0b251a59
   Yoga: 02036f6383c0008edb7ef0773a0e6beb6ce82bd1
 
 PODFILE CHECKSUM: e1e55dfdc19d459b156f0287612f95aef1205afa
